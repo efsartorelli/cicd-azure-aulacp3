@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Projeto CI/CD</title>
+</head>
+<body style="font-family: Arial; padding: 40px;">
+
+<h1>Projeto CI/CD Azure</h1>
+
+<h2>Integrantes</h2>
+
+<ul>
+  <li>Seu Nome - RM XXXXX</li>
+  <li>Nome colega - RM XXXXX</li>
+</ul>
+
+<p>
+CI/CD permite integração contínua e deploy automático,
+reduzindo erros humanos, acelerando entregas e aumentando
+a confiabilidade das aplicações.
+</p>
+
+</body>
+</html>
